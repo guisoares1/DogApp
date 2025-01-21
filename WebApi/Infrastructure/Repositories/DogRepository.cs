@@ -20,7 +20,7 @@ namespace Infrastructure.Repositories
 
         public DogBreed? GetById(string id)
         {
-            return _context.DogBreed.FirstOrDefault(d => d.Id == id);
+            return _context.DogBreed.FirstOrDefault(d => d.DogId == id);
         }
 
         public void Add(DogBreed breed)

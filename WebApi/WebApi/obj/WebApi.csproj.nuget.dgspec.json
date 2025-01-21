@@ -101,6 +101,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "D:\\DogApp\\WebApi\\Application\\Application.csproj": {
+                "projectPath": "D:\\DogApp\\WebApi\\Application\\Application.csproj"
+              },
               "D:\\DogApp\\WebApi\\Domain\\Domain.csproj": {
                 "projectPath": "D:\\DogApp\\WebApi\\Domain\\Domain.csproj"
               },

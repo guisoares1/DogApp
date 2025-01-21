@@ -5,6 +5,7 @@ using CrossCutting.DI;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
+using Application.Application;
 
 
 
@@ -44,9 +45,9 @@ using (var scope = host.Services.CreateScope())
     var jobStorage = scope.ServiceProvider.GetRequiredService<JobStorage>();
 
     var recurringJobManager = scope.ServiceProvider.GetRequiredService<IRecurringJobManager>();
-    recurringJobManager.AddOrUpdate<DogService>(
+    recurringJobManager.AddOrUpdate<DogApplication>(
         "fetch-and-store-breeds",
-        job => job.FetchAndStoreBreeds(),
+        job => job.AddBreads(),
         Cron.Hourly);
 }
 

@@ -161,3 +161,4 @@ D:\DogApp\WebApi\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MS
 D:\DogApp\WebApi\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\DogApp\WebApi\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\DogApp\WebApi\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DogApp\WebApi\WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -5,7 +5,7 @@
 namespace WebApi.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreatee : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -14,7 +14,7 @@ namespace WebApi.Migrations
                 name: "DogBreed",
                 columns: table => new
                 {
-                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    DogId = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     MinLife = table.Column<int>(type: "int", nullable: false),
                     MaxLife = table.Column<int>(type: "int", nullable: false),
@@ -23,7 +23,7 @@ namespace WebApi.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_DogBreed", x => x.Id);
+                    table.PrimaryKey("PK_DogBreed", x => x.DogId);
                 });
         }
 

@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "D:\\DogApp\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|d:\\dogapp\\webapi\\application\\application\\dogapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|solutionrelative:application\\application\\dogapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\services\\dogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\dogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{989778A9-3F13-4D9D-96A6-B4FAE85A3BC8}|CrossCutting\\CrossCutting.csproj|d:\\dogapp\\webapi\\crosscutting\\di\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{989778A9-3F13-4D9D-96A6-B4FAE85A3BC8}|CrossCutting\\CrossCutting.csproj|solutionrelative:crosscutting\\di\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|d:\\dogapp\\webapi\\application\\mappings\\dogbreedmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|solutionrelative:application\\mappings\\dogbreedmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreedresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreedresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\services\\dogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\dogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreedattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +35,56 @@
       "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreedresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreedresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\lifespanattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\lifespanattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\weight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\weight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\interfaces\\idogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idogapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F63F6E-85CD-4495-A1E5-BC47F516A204}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\entities\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|d:\\dogapp\\webapi\\application\\application\\dogapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|solutionrelative:application\\application\\dogapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|d:\\dogapp\\webapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C1857F-1CFC-4C5B-92AA-91E93A74189F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|d:\\dogapp\\webapi\\application\\mappings\\dogbreedmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0E4A32-4BC1-4C04-8EFF-D40FE50B8A6F}|Application\\Application.csproj|solutionrelative:application\\mappings\\dogbreedmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|d:\\dogapp\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{538C6BB4-1481-4895-8A6C-2E73B0239D32}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|d:\\dogapp\\webapi\\workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8CF3667-399B-4C1A-B180-1ACAEF9377B1}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF9523F-C336-4FD8-A8D0-F7002CE84573}|Domain\\Domain.csproj|d:\\dogapp\\webapi\\domain\\interfaces\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,17 +110,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "D:\\DogApp\\WebApi\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T02:11:01.029Z",
               "IsPinned": true,
@@ -120,59 +128,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkerService.csproj",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\WorkerService.csproj",
-              "RelativeDocumentMoniker": "WorkerService\\WorkerService.csproj",
-              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\WorkerService.csproj",
-              "RelativeToolTip": "WorkerService\\WorkerService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T02:22:09.158Z",
+              "DocumentIndex": 7,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Services\\DogService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\DogService.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Services\\DogService.cs",
+              "RelativeToolTip": "Domain\\Services\\DogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:22:30.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "DogBreedAttributes.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedAttributes.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreedAttributes.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedAttributes.cs",
+              "RelativeToolTip": "Domain\\Entities\\DogBreedAttributes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:49:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DogApiService.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Infrastructure\\Services\\DogApiService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\DogApiService.cs",
               "ToolTip": "D:\\DogApp\\WebApi\\Infrastructure\\Services\\DogApiService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\DogApiService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:45:04.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "DogApplication.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Application\\Application\\DogApplication.cs",
+              "RelativeDocumentMoniker": "Application\\Application\\DogApplication.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Application\\Application\\DogApplication.cs",
+              "RelativeToolTip": "Application\\Application\\DogApplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:34:16.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\Program.cs",
+              "RelativeToolTip": "WorkerService\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAtwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:46:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\WebApi\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\DogController.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\WebApi\\Controllers\\DogController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\DogController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:06:26.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\CrossCutting\\DI\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "CrossCutting\\DI\\DependencyInjectionConfig.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\CrossCutting\\DI\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "CrossCutting\\DI\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:50:25.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DogApp\\WebApi\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T12:56:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DogRepository.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Infrastructure\\Repositories\\DogRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DogRepository.cs",
               "ToolTip": "D:\\DogApp\\WebApi\\Infrastructure\\Repositories\\DogRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\DogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T23:38:01.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "LifeSpanAttributes.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\LifeSpanAttributes.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\LifeSpanAttributes.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\LifeSpanAttributes.cs",
+              "RelativeToolTip": "Domain\\Entities\\LifeSpanAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:41:45.278Z",
+              "WhenOpened": "2025-01-21T12:39:37.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
+              "Title": "IDogApiService.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogApiService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDogApiService.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogApiService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDogApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:28:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DogBreeReponse.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreeReponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreeReponse.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreeReponse.cs",
+              "RelativeToolTip": "Domain\\Entities\\DogBreeReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:49:09.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DogBreedResponseWrapper.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedResponseWrapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreedResponseWrapper.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedResponseWrapper.cs",
+              "RelativeToolTip": "Domain\\Entities\\DogBreedResponseWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:43:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weight.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\Weight.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Weight.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\Weight.cs",
+              "RelativeToolTip": "Domain\\Entities\\Weight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:31:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DogBreed.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreed.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\DogBreed.cs",
@@ -185,143 +323,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkerService\\appsettings.json",
+              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\appsettings.json",
+              "RelativeToolTip": "WorkerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T02:03:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DogBreedMap.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Application\\Mappings\\DogBreedMap.cs",
               "RelativeDocumentMoniker": "Application\\Mappings\\DogBreedMap.cs",
               "ToolTip": "D:\\DogApp\\WebApi\\Application\\Mappings\\DogBreedMap.cs",
               "RelativeToolTip": "Application\\Mappings\\DogBreedMap.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T23:40:04.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\appsettings.json",
-              "RelativeDocumentMoniker": "WorkerService\\appsettings.json",
-              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\appsettings.json",
-              "RelativeToolTip": "WorkerService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T02:03:02.141Z"
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DogApp\\WebApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:41:45.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
+              "Title": "WorkerService.csproj",
+              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\WorkerService.csproj",
+              "RelativeDocumentMoniker": "WorkerService\\WorkerService.csproj",
+              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\WorkerService.csproj",
+              "RelativeToolTip": "WorkerService\\WorkerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T02:22:09.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
               "ToolTip": "D:\\DogApp\\WebApi\\WebApi\\appsettings.json",
               "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T23:49:51.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:49:51.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyInjectionConfig.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\CrossCutting\\DI\\DependencyInjectionConfig.cs",
-              "RelativeDocumentMoniker": "CrossCutting\\DI\\DependencyInjectionConfig.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\CrossCutting\\DI\\DependencyInjectionConfig.cs",
-              "RelativeToolTip": "CrossCutting\\DI\\DependencyInjectionConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:50:25.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DogBreedResponseWrapper.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedResponseWrapper.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreedResponseWrapper.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedResponseWrapper.cs",
-              "RelativeToolTip": "Domain\\Entities\\DogBreedResponseWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:43:04.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DogBreedAttributes.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedAttributes.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreedAttributes.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreedAttributes.cs",
-              "RelativeToolTip": "Domain\\Entities\\DogBreedAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:49:39.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DogService.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Services\\DogService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\DogService.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Services\\DogService.cs",
-              "RelativeToolTip": "Domain\\Services\\DogService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:22:30.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DogBreeReponse.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreeReponse.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\DogBreeReponse.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\DogBreeReponse.cs",
-              "RelativeToolTip": "Domain\\Entities\\DogBreeReponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:49:09.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDogApiService.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogApiService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDogApiService.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogApiService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IDogApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:28:52.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\Program.cs",
-              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\WorkerService\\Program.cs",
-              "RelativeToolTip": "WorkerService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T01:46:10.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Weight.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Entities\\Weight.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Weight.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Domain\\Entities\\Weight.cs",
-              "RelativeToolTip": "Domain\\Entities\\Weight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:31:25.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IDogService.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IDogService.cs",
@@ -333,31 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DogController.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\WebApi\\Controllers\\DogController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\DogController.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\WebApi\\Controllers\\DogController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\DogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T02:06:26.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DogApplication.cs",
-              "DocumentMoniker": "D:\\DogApp\\WebApi\\Application\\Application\\DogApplication.cs",
-              "RelativeDocumentMoniker": "Application\\Application\\DogApplication.cs",
-              "ToolTip": "D:\\DogApp\\WebApi\\Application\\Application\\DogApplication.cs",
-              "RelativeToolTip": "Application\\Application\\DogApplication.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:34:16.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Worker.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\WorkerService\\Worker.cs",
               "RelativeDocumentMoniker": "WorkerService\\Worker.cs",
@@ -369,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "DogBreedVM.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Application\\ViewModel\\DogBreedVM.cs",
               "RelativeDocumentMoniker": "Application\\ViewModel\\DogBreedVM.cs",
@@ -382,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "IDogRepository.cs",
               "DocumentMoniker": "D:\\DogApp\\WebApi\\Domain\\Interfaces\\IDogRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IDogRepository.cs",

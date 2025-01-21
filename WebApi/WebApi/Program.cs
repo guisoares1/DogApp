@@ -20,7 +20,6 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 );
 
 
-
 builder.Services.AddDependencies();
 
 var app = builder.Build();

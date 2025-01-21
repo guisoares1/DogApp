@@ -1,4 +1,5 @@
-﻿using Domain.Interfaces;
+﻿using Application.Application;
+using Domain.Interfaces;
 using Domain.Services;
 using Infrastructure.Repositories;
 using Infrastructure.Services;
@@ -12,6 +13,7 @@ namespace CrossCutting.DI
         {
             services.AddScoped<IDogService, DogService>();
             services.AddScoped<IDogRepository, DogRepository>();
+            services.AddScoped<DogApplication>();
 
             services.AddHttpClient<IDogApiService, DogApiService>(client =>
             {

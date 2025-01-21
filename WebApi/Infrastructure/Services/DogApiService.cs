@@ -31,12 +31,12 @@ namespace Infrastructure.Services
             {
                 dogBreeds.Add(new DogBreed
                 {
-                    Id = breed.Id,
-                    Name = breed.Attributes.Name,
-                    MinLife = breed.Attributes.MinLife,
-                    MaxLife = breed.Attributes.MaxLife,
-                    Description = breed.Attributes.Description,
-                    Hypoallergenic = breed.Attributes.Hypoallergenic
+                    DogId = breed.Id,                               
+                    Name = breed.Attributes.Name,                    
+                    MinLife = breed.Attributes.Life.MinLife,        
+                    MaxLife = breed.Attributes.Life.MaxLife,         
+                    Description = breed.Attributes.Description,     
+                    Hypoallergenic = breed.Attributes.Hypoallergenic 
                 });
             }
 

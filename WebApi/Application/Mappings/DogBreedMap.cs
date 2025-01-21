@@ -9,7 +9,7 @@ namespace Application.Mappings
         {
             return new DogBreed
             {
-                Id = vm.Id,
+                DogId = vm.DogId,
                 Name = vm.Name,
                 Description = vm.Description,
                 Hypoallergenic = vm.Hypoallergenic,
@@ -22,7 +22,7 @@ namespace Application.Mappings
         {
             return new DogBreedVM
             {
-                Id = domain.Id,
+                DogId = domain.DogId,
                 Name = domain.Name,
                 Description = domain.Description,
                 Hypoallergenic = domain.Hypoallergenic,

@@ -18,14 +18,14 @@ namespace Infrastructure.Data
 
             modelBuilder.Entity<DogBreed>(entity =>
             {
-                entity.HasKey(e => e.Id);
+                entity.HasKey(e => e.DogId);
 
                 entity.Property(e => e.Name)
-                    .IsRequired()
-                    .HasMaxLength(100);
+                    .IsRequired();
 
                 entity.Property(e => e.Description)
-                    .HasMaxLength(100);
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
 
                 entity.Property(propertyExpression: e => e.Hypoallergenic)
                     .IsRequired();

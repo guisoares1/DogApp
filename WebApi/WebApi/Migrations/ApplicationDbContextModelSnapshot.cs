@@ -23,13 +23,12 @@ namespace WebApi.Migrations
 
             modelBuilder.Entity("Domain.Entities.DogBreed", b =>
                 {
-                    b.Property<string>("Id")
+                    b.Property<string>("DogId")
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("Hypoallergenic")
                         .HasColumnType("bit");
@@ -42,10 +41,9 @@ namespace WebApi.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
+                        .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id");
+                    b.HasKey("DogId");
 
                     b.ToTable("DogBreed");
                 });

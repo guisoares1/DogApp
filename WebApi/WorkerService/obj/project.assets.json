@@ -1620,10 +1620,24 @@
           }
         }
       },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
       "CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Application": "1.0.0",
           "Domain": "1.0.0",
           "Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
@@ -4263,6 +4277,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
     "CrossCutting/1.0.0": {
       "type": "project",
       "path": "../CrossCutting/CrossCutting.csproj",
@@ -4281,6 +4300,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Application >= 1.0.0",
       "CrossCutting >= 1.0.0",
       "Domain >= 1.0.0",
       "Hangfire >= 1.8.17",
@@ -4320,6 +4340,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "D:\\DogApp\\WebApi\\Application\\Application.csproj": {
+              "projectPath": "D:\\DogApp\\WebApi\\Application\\Application.csproj"
+            },
             "D:\\DogApp\\WebApi\\CrossCutting\\CrossCutting.csproj": {
               "projectPath": "D:\\DogApp\\WebApi\\CrossCutting\\CrossCutting.csproj"
             },

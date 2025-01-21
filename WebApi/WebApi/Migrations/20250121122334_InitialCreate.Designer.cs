@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250121050856_InitialCreatee")]
-    partial class InitialCreatee
+    [Migration("20250121122334_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,7 +26,7 @@ namespace WebApi.Migrations
 
             modelBuilder.Entity("Domain.Entities.DogBreed", b =>
                 {
-                    b.Property<string>("Id")
+                    b.Property<string>("DogId")
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Description")
@@ -48,7 +48,7 @@ namespace WebApi.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.HasKey("Id");
+                    b.HasKey("DogId");
 
                     b.ToTable("DogBreed");
                 });

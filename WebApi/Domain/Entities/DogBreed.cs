@@ -8,7 +8,7 @@ namespace Domain.Entities
 {
     public class DogBreed
     {
-        public required string Id { get; set; } 
+        public required string DogId { get; set; } 
         public required string Name { get; set; }
         public int MinLife { get; set; }
         public int MaxLife { get; set; } 
