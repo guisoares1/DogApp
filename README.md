@@ -70,6 +70,10 @@ The frontend structure uses best practices for organization with Vue.js:
    ```
 ## Demo Video
 
-*A demonstration video showing the system in action will be added here soon.*
+
+https://github.com/user-attachments/assets/30495f53-f319-4555-a651-f3fbd36b325a
+
+
+
 For more information, get in touch through my [GitHub](https://github.com/guisoares1).
 
