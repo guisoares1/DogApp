@@ -80,3 +80,4 @@ D:\DogApp\WebApi\WorkerService\bin\Debug\net9.0\CrossCutting.dll
 D:\DogApp\WebApi\WorkerService\bin\Debug\net9.0\Infrastructure.dll
 D:\DogApp\WebApi\WorkerService\bin\Debug\net9.0\CrossCutting.pdb
 D:\DogApp\WebApi\WorkerService\bin\Debug\net9.0\Infrastructure.pdb
+D:\DogApp\WebApi\WorkerService\obj\Debug\net9.0\WorkerService.sourcelink.json

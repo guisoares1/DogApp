@@ -15,15 +15,19 @@ namespace Infrastructure.Services
 
         public IEnumerable<DogBreed> GetBreedsByPage(int pageNumber)
         {
-            var response = _httpClient.GetAsync($"https://api.thedogapi.com/v2/breeds?page[number]={pageNumber}").Result;
+            var response = _httpClient.GetAsync($"https://dogapi.dog/api/v2/breeds?page[number]={pageNumber}").Result;
             response.EnsureSuccessStatusCode();
 
             var content = response.Content.ReadAsStringAsync().Result;
 
-            var breeds = JsonSerializer.Deserialize<List<DogBreedResponse>>(content);
+            var options = new JsonSerializerOptions
+            {
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            };
+            var breeds = JsonSerializer.Deserialize<DogBreedResponseWrapper>(content, options);
 
             var dogBreeds = new List<DogBreed>();
-            foreach (var breed in breeds)
+            foreach (var breed in breeds.Data)
             {
                 dogBreeds.Add(new DogBreed
                 {

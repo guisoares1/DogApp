@@ -36,7 +36,7 @@ namespace Domain.Services
             do
             {
                 var breeds = _dogApiService.GetBreedsByPage(page).ToList();
-                if (PageVisited(breeds[0].Id))
+                if (breeds.Count > 0 && PageVisited(breeds[0].Id))
                 {
                     page++;
                     continue;

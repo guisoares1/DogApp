@@ -11,11 +11,10 @@ namespace Infrastructure.Data
         {
         }
 
-        public DbSet<DogBreed> DogBreeds { get; set; }
+        public DbSet<DogBreed> DogBreed { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<DogBreed>(entity =>
             {

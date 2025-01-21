@@ -15,3 +15,4 @@ D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.dll
 D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\refint\CrossCutting.dll
 D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.pdb
 D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\ref\CrossCutting.dll
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.sourcelink.json

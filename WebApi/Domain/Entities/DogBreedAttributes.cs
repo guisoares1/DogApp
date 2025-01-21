@@ -13,5 +13,8 @@ namespace Domain.Entities
         public int MaxLife { get; set; }
         public required string Description { get; set; }
         public bool Hypoallergenic { get; set; }
+
+        public Weight MaleWeight { get; set; }
+        public Weight FemaleWeight { get; set; }
     }
 }

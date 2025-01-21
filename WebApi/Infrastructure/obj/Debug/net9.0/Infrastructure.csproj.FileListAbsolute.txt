@@ -13,3 +13,4 @@ D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
 D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
