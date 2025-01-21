@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.DogController",
+    "Method": "GetAllDogs",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

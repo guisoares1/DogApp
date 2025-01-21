@@ -1,0 +1,11 @@
+D:\DogApp\WebApi\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\DogApp\WebApi\Domain\bin\Debug\net9.0\Domain.dll
+D:\DogApp\WebApi\Domain\bin\Debug\net9.0\Domain.pdb
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.dll
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\Domain.pdb
+D:\DogApp\WebApi\Domain\obj\Debug\net9.0\ref\Domain.dll

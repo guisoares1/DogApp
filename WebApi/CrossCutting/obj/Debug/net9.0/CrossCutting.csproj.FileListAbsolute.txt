@@ -1,0 +1,17 @@
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\CrossCutting.deps.json
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\CrossCutting.dll
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\CrossCutting.pdb
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\Domain.dll
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\Infrastructure.dll
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\Domain.pdb
+D:\DogApp\WebApi\CrossCutting\bin\Debug\net9.0\Infrastructure.pdb
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.csproj.AssemblyReference.cache
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.AssemblyInfoInputs.cache
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.AssemblyInfo.cs
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.csproj.CoreCompileInputs.cache
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCut.C7E4F570.Up2Date
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.dll
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\refint\CrossCutting.dll
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\CrossCutting.pdb
+D:\DogApp\WebApi\CrossCutting\obj\Debug\net9.0\ref\CrossCutting.dll

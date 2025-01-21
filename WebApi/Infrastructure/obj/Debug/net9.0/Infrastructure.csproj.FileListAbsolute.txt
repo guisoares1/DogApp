@@ -1,0 +1,15 @@
+D:\DogApp\WebApi\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DogApp\WebApi\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DogApp\WebApi\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DogApp\WebApi\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\DogApp\WebApi\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DogApp\WebApi\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
