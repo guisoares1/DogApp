@@ -3,7 +3,8 @@
 DogApp is a system that allows displaying, filtering, and updating data about dogs, designed with a modern architecture and following best development practices. This repository contains both the backend and frontend of the application.
 
 ## Technologies Used
-
+### External APIs
+- **Dog API**: Data about dogs is retrieved using the [Dog API](https://dogapi.dog/docs/api-v2) to populate the application.
 ### Backend
 - **.NET**: API development using the **DDD (Domain-Driven Design)** pattern, ensuring a well-structured and organized architecture.
 - **Hangfire**: Background task implementation for automatically updating data every hour.
